@@ -19,4 +19,4 @@ class User:
     def get_age(self):
         today = date.today()
         age = today.year - self.birthday.year - ((today.month, today.day) < (self.birthday.month, self.birthday.day))
-        return age
+        return f"User's age: {age}"

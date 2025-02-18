@@ -14,4 +14,4 @@ class TestUser(unittest.TestCase):
     def test_get_age(self):
         user1 = User(256895786, 'Aibek', 'Karypov', '2005-12-14')
         self.assertEqual(user1.get_age(),
-                         19, 'Something wrong')
+                         "User's age: 19", 'Something wrong')

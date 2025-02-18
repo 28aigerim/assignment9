@@ -16,7 +16,7 @@ class UserService:
     @classmethod
     def find_user(cls, user_id):
         if user_id in cls.users.keys():
-            return f'User: {cls.users[user_id]}'
+            return f'User: {cls.users[user_id].get_details()}'
         else:
             return 'User is not found.'
 
