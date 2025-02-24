@@ -1,0 +1,80 @@
+Sample Input and Output
+
+
+
+Hello! Welcome to the DeviceStore!
+The numbers shown below for actions:
+1 - Show Devices,
+2 - Show Cart,
+3 - Exit.
+
+Enter number for actions: 1
+
+1 .
+Device Iphone X with price 120000, stock: 5, warranty period: 12 months.Smartphone with screen size: 5 and battery life: 100.
+2 .
+Device Iphone 11 with price 130000, stock: 10, warranty period: 12 months.Smartphone with screen size: 5.5 and battery life: 100.
+3 .
+Device Iphone 12 with price 140000, stock: 4, warranty period: 12 months.Smartphone with screen size: 5 and battery life: 100.
+4 .
+Device Iphone 13 with price 150000, stock: 8, warranty period: 12 months.Smartphone with screen size: 6 and battery life: 100.
+5 .
+Device Iphone 14 with price 160000, stock: 7, warranty period: 12 months.Smartphone with screen size: 6 and battery life: 100.
+6 .
+Device Iphone 15 with price 170000, stock: 9, warranty period: 12 months.Smartphone with screen size: 6.5 and battery life: 100.
+7 .
+Device Iphone 16 with price 180000, stock: 12, warranty period: 12 months.Smartphone with screen size: 7 and battery life: 100.
+8 .
+Device Asus with price 80000, stock: 8, warranty period: 12 months.Laptop with RAM size: 16 and processor speed: 2.4.
+9 .
+Device Lenovo with price 50000, stock: 12, warranty period: 12 months.Laptop with RAM size: 8 and processor speed: 2.0.
+10 .
+Device HP with price 120000, stock: 9, warranty period: 12 months.Laptop with RAM size: 32 and processor speed: 4.8.
+11 .
+Device ThinkPad with price 100000, stock: 7, warranty period: 12 months.Laptop with RAM size: 16 and processor speed: 2.4.
+12 .
+Device MacBook with price 200000, stock: 10, warranty period: 12 months.Laptop with RAM size: 32 and processor speed: 4.8.
+13 .
+Device Macbook Air with price 180000, stock: 4, warranty period: 12 months.Laptop with RAM size: 16 and processor speed: 2.4.
+14 .
+Device Asus Pro with price 90000, stock: 9, warranty period: 12 months.Laptop with RAM size: 32 and processor speed: 2.4.
+15 .
+Device Samsung Galaxy 1 with price 30000, stock: 6, warranty period: 12 months.Tablet with screen resolution: 768×1024 and weight: 0.5 kg.
+16 .
+Device Samsung Galaxy 2 with price 35000, stock: 8, warranty period: 12 months.Tablet with screen resolution: 768×1024 and weight: 0.6 kg.
+17 .
+Device Samsung Galaxy 3 with price 40000, stock: 10, warranty period: 12 months.Tablet with screen resolution: 810×1080 and weight: 0.5 kg.
+18 .
+Device Samsung Galaxy 4 with price 50000, stock: 7, warranty period: 12 months.Tablet with screen resolution: 1280×800 and weight: 0.4 kg.
+19 .
+Device IPad with price 90000, stock: 8, warranty period: 12 months.Tablet with screen resolution: 1024×768 and weight: 0.4 kg.
+20 .
+Device IPad Pro with price 120000, stock: 9, warranty period: 12 months.Tablet with screen resolution: 1920×1080 and weight: 0.3 kg.
+
+Would you like to choose device? (1-Yes, 0-No) 1
+Enter the device number: 20
+Enter the amount of device: 3
+Would you like to choose device? (1-Yes, 0-No) 1
+Enter the device number: 12
+Enter the amount of device: 5
+Would you like to choose device? (1-Yes, 0-No) 0
+
+The numbers shown below for actions:
+1 - Show Devices,
+2 - Show Cart,
+3 - Exit.
+
+Enter number for actions: 2
+
+Your Cart:
+('IPad Pro', 3)
+('MacBook', 5)
+
+Do you want a checkout? (1-Yes, 0-No) 1
+
+Check:
+Device IPad Pro: 3 --- 360000 som.
+Device MacBook: 5 --- 1000000 som.
+Total price: 1360000 som.
+2025-02-24 22:57:49.600724
+Thank you for shopping!
