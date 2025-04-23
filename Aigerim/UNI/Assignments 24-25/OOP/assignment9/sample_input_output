@@ -1,0 +1,21 @@
+Sample Input and Output
+1. Sphere
+Code:
+    sphere1 = Sphere(1)
+    print(sphere1)
+Output:
+    Sphere with radius 1. S=12.57, V=4.19
+
+2. Cylinder
+Code:
+    cylinder1 = Cylinder(1, 1)
+    print(cylinder1)
+Output:
+    Cylinder with r=1, h=1. S=12.57, V=3.14
+
+3. Cube
+Code:
+    cube1 = Cube(3)
+    print(cube1)
+Output:
+    Cube with side 3. S=54, V=27
